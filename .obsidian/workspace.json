@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "company/kr/KA 分支流程.md",
+                "file": "company/TDD + AI 开发实战案例.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "KA 分支流程"
+              "title": "TDD + AI 开发实战案例"
+            }
+          },
+          {
+            "id": "7fa062d575811203",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "company/迭代分支管理策略方案.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "迭代分支管理策略方案"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "company/kr/KA 分支流程.md",
+                "file": "company/TDD + AI 开发实战案例.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "KA 分支流程 的反向链接列表"
+              "title": "TDD + AI 开发实战案例 的反向链接列表"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "company/kr/KA 分支流程.md",
+                "file": "company/TDD + AI 开发实战案例.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "KA 分支流程 的出链列表"
+              "title": "TDD + AI 开发实战案例 的出链列表"
             }
           },
           {
@@ -156,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "company/kr/KA 分支流程.md",
+                "file": "company/TDD + AI 开发实战案例.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "KA 分支流程 的大纲"
+              "title": "TDD + AI 开发实战案例 的大纲"
             }
           },
           {
@@ -195,42 +210,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "04f371bea89666bf",
+  "active": "7fa062d575811203",
   "lastOpenFiles": [
-    "company/kr/助手需求收集.md",
-    "Excalidraw/KA 迭代管理状态机.md",
-    "Excalidraw/线上流程控制状态机.md",
-    "company/focus/KA 迭代效率提升方案.md",
-    "company/kr/迭代流程sop.md",
-    "company/kr/工程效率平台需求收集.md",
+    "company/迭代分支管理策略方案.md",
+    "company/TDD + AI 开发实战案例.md",
+    "Excalidraw/迭代分支策略.md",
+    "company/转正复盘.md",
     "company/kr/KA 分支流程.md",
-    "Excalidraw/云效流程节点涌道图.md",
+    "company/archives/【feature】 飞书钉钉表格接入.md",
+    "company/转正复盘-ppt.html",
+    "company/archives/【feature】.md",
+    "company/kr/助手需求收集.md",
+    "company/kr/工程效率平台需求收集.md",
     "company/kr/工程效率平台.md",
-    "Excalidraw/KA 迭代 状态机.md",
-    "Pasted image 20260402212919.png",
-    "Excalidraw/线上流程控制 状态机.md",
-    "company/focus/迭代云效 sop.md",
+    "company/kr/迭代流程sop.md",
     "company/focus/customer work order agent.md",
-    "study/appliacations of derivative.md",
-    "Pasted image 20260402134622.png",
+    "company/focus/KA 迭代效率提升方案.md",
+    "company/focus/迭代云效 sop.md",
     "company/archives/【bug fix】migrate error.md",
-    "company/archives",
-    "未命名.md",
-    "study/math.md",
-    "company/todo/新.md",
+    "Excalidraw/线上流程控制状态机.md",
+    "Excalidraw/云效流程节点涌道图.md",
+    "Pasted image 20260402212919.png",
     "study/study notes.md",
+    "study/math.md",
+    "study/appliacations of derivative.md",
     "study/2026.03.31 study notes.md",
-    "personal/daily log/note 2026-04-01.md",
+    "Excalidraw/KA 迭代管理状态机.md",
+    "未命名.md",
+    "Excalidraw/KA 迭代 状态机.md",
+    "Excalidraw/线上流程控制 状态机.md",
+    "Pasted image 20260402134622.png",
+    "company/archives",
+    "company/todo/新.md",
     "study",
-    "personal/daily log/note 2026-03-30.md",
     "company/yuce",
-    "Excalidraw/Drawing 2026-03-31 13.38.54.excalidraw.md",
     "未命名.base",
     "未命名 1.base",
     "Excalidraw",
     "company/focus",
     "personal",
-    "personal/daily log",
-    "company/kr"
+    "personal/daily log"
   ]
 }

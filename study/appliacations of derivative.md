@@ -1,1 +1,0 @@
-defination of extremes
