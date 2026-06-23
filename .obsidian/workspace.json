@@ -4,39 +4,92 @@
     "type": "split",
     "children": [
       {
-        "id": "1965ea166dd972a2",
+        "id": "90ddc2c686f4b0e4",
         "type": "tabs",
         "children": [
           {
-            "id": "04f371bea89666bf",
+            "id": "c1cb612a6ad189f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "company/TDD + AI 开发实战案例.md",
+                "file": "daily/work/2026-06/2026-06-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TDD + AI 开发实战案例"
+              "title": "2026-06-08"
             }
           },
           {
-            "id": "7fa062d575811203",
+            "id": "bc35e7df69e80f8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "company/迭代分支管理策略方案.md",
+                "file": "daily/work/2026-06/2026-06-09.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "迭代分支管理策略方案"
+              "title": "2026-06-09"
+            }
+          },
+          {
+            "id": "e09981bb2dd4c560",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "inbox/work/会议 - AI方法论、数仓与知识图谱 - 2026-05-19.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "会议 - AI方法论、数仓与知识图谱 - 2026-05-19"
+            }
+          },
+          {
+            "id": "3acf235629875dfa",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "assets/excalidraw/未命名.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "f1dfdde69fc3ffbd",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "assets/excalidraw/Drawing 2026-05-28 10.18.59.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-05-28 10.18.59.excalidraw"
+            }
+          },
+          {
+            "id": "9da6bcd8878f1f28",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -171,13 +224,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "company/TDD + AI 开发实战案例.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "TDD + AI 开发实战案例 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -210,45 +262,54 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7fa062d575811203",
+  "active": "5343bd115ab71c7d",
   "lastOpenFiles": [
-    "company/迭代分支管理策略方案.md",
-    "company/TDD + AI 开发实战案例.md",
-    "Excalidraw/迭代分支策略.md",
-    "company/转正复盘.md",
-    "company/kr/KA 分支流程.md",
-    "company/archives/【feature】 飞书钉钉表格接入.md",
-    "company/转正复盘-ppt.html",
-    "company/archives/【feature】.md",
-    "company/kr/助手需求收集.md",
-    "company/kr/工程效率平台需求收集.md",
-    "company/kr/工程效率平台.md",
-    "company/kr/迭代流程sop.md",
-    "company/focus/customer work order agent.md",
-    "company/focus/KA 迭代效率提升方案.md",
-    "company/focus/迭代云效 sop.md",
-    "company/archives/【bug fix】migrate error.md",
-    "Excalidraw/线上流程控制状态机.md",
-    "Excalidraw/云效流程节点涌道图.md",
-    "Pasted image 20260402212919.png",
-    "study/study notes.md",
-    "study/math.md",
-    "study/appliacations of derivative.md",
-    "study/2026.03.31 study notes.md",
-    "Excalidraw/KA 迭代管理状态机.md",
-    "未命名.md",
-    "Excalidraw/KA 迭代 状态机.md",
-    "Excalidraw/线上流程控制 状态机.md",
-    "Pasted image 20260402134622.png",
-    "company/archives",
-    "company/todo/新.md",
-    "study",
-    "company/yuce",
-    "未命名.base",
-    "未命名 1.base",
-    "Excalidraw",
-    "company/focus",
-    "personal",
-    "personal/daily log"
+    "daily/work/2026-06/2026-06-23.md",
+    "工作日志/工程效率平台/2026/2026-06-22/需求工作日志.md",
+    "areas/efficiency-platform/requirements/线上需求阶段流转与逾期提醒看板.md",
+    "工作日志/工程效率平台/2026/2026-06-22",
+    "工作日志/工程效率平台/2026",
+    "工作日志/工程效率平台",
+    "工作日志",
+    "daily/work/2026-06/2026-06-22.md",
+    "daily/work/2026-06/2026-06-19.md",
+    "daily/work/2026-06/2026-06-18.md",
+    "daily/work/2026-06/2026-06-17.md",
+    "daily/work/2026-06/2026-06-16.md",
+    "assets/excalidraw/Drawing 2026-05-28 10.18.59.excalidraw.md",
+    "assets/excalidraw/Drawing 2026-06-13 12.42.30.excalidraw.md",
+    "assets/attachments/Pasted Image 20260615120430_200.png",
+    "assets/attachments/Pasted Image 20260615120353_172.png",
+    "assets/attachments/Pasted Image 20260615120340_409.png",
+    "assets/attachments/Pasted Image 20260615120333_470.png",
+    "assets/attachments/Pasted Image 20260615120326_113.png",
+    "assets/attachments/Pasted Image 20260615120254_730.png",
+    "daily/work/2026-06/2026-06-15.md",
+    "assets/attachments/Pasted Image 20260613124938_568.png",
+    "assets/excalidraw/未命名.canvas",
+    "inbox/work/会议 - AI方法论、数仓与知识图谱 - 2026-05-19.md",
+    "inbox/work/周报草稿-研发二部-2026-06-13.md",
+    "daily/work/2026-06/2026-06-12.md",
+    "daily/work/2026-06/2026-06-11.md",
+    "daily/work/2026-06/2026-06-10.md",
+    "daily/work/2026-06/2026-06-09.md",
+    "daily/work/2026-06/2026-06-08.md",
+    "projects/work/KA 迭代效率提升方案.md",
+    "projects/work/hermes客户知识库方案.md",
+    "areas/efficiency-platform/requirements/工程效率平台需求收集.md",
+    "daily/work/2026-06/2026-06-07.md",
+    "daily/work/2026-06/2026-06-06.md",
+    "daily/work/2026-06/2026-06-05.md",
+    "daily/work/2026-06/2026-06-04.md",
+    "daily/work/2026-06/2026-06-03.md",
+    "daily/work/2026-05",
+    "daily/work/2025-04",
+    "daily/work/2026-06",
+    "assets/attachments/Pasted Image 20260527101032_509.png",
+    "templates",
+    "areas/efficiency-platform/requirements",
+    "areas/efficiency-platform",
+    "assets/attachments/______________________________________________________________________KA迭代流程SOP.png",
+    "assets/attachments/Pasted image 20260414053337.png"
   ]
 }
