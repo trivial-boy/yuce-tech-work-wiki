@@ -11,7 +11,7 @@ date: {{date:YYYY-MM-DD}}
 
 # Daily Note - {{date:YYYY-MM-DD}}
 
-## Today
+## 今日计划
 
 ### TODO
 #### P0
@@ -23,10 +23,27 @@ date: {{date:YYYY-MM-DD}}
 #### P2
 - [ ]
 
-## Notes
+## 今日工作日志
 
-## Decisions
+### 已完成
+- [ ]
 
-## Risks / Blockers
+### 过程记录
+- 
 
-## Links
+### 同事需求 / 临时输入
+- 
+
+## 今日结论
+
+### 决策
+- 
+
+### 风险 / 阻塞
+- 
+
+## 明日承接
+- [ ]
+
+## 关联笔记
+- [[工作台]]
